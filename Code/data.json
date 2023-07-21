@@ -1,0 +1,132 @@
+{
+    "playlist": {
+      "artists": [
+        {
+          "artist": "NewJeans",
+          "image": "./src/assets/images/newjeanssupershy.jpeg",
+          "audio": "./src/assets/audio/supershy.mp3",
+          "description": "Super Shy"
+        },
+        {
+          "artist": "NewJeans",
+          "image": "./src/assets/images/newjeansomg.jpeg",
+          "audio": "./src/assets/audio/omg.mp3",
+          "description": "OMG"
+        },
+        {
+          "artist": "NIKI",
+          "image": "./src/assets/images/nikinicole.jpeg",
+          "audio": "./src/assets/audio/oceannengines.mp3",
+          "description": "Ocean & Engines"
+        },
+        {
+          "artist": "NIKI",
+          "image": "./src/assets/images/nikinicole.jpeg",
+          "audio": "./src/assets/audio/backburner.mp3",
+          "description": "Backburner"
+        },
+        {
+          "artist": "Taylor Swift",
+          "image": "./src/assets/images/taylor.jpeg",
+          "audio": "./src/assets/audio/Enchanted.mp3",
+          "description": "Enchanted"
+        }
+      ]
+    },
+
+    "songs": {
+      "newjeans": [
+        {
+          "artist": "NewJeans",
+          "image": "./src/assets/images/newjeanssupershy.jpeg",
+          "title": "Super Shy",
+          "audio": "./src/assets/audio/supershy.mp3",
+          "description": "Listen More NewJeans Song!"
+        },
+        {
+          "artist": "NewJeans",
+          "image": "./src/assets/images/newjeanssuperomg.jpeg",
+          "title": "OMG",
+          "audio": "./src/assets/audio/omg.mp3",
+          "description": "Listen More NewJeans Song!"
+        },
+        {
+          "artist": "NewJeans",
+          "image": "./src/assets/images/newjeansditto.jpeg",
+          "title": "Ditto",
+          "audio": "./src/assets/audio/ditto.mp3",
+          "description": "Listen More NewJeans Song!"
+        },
+        {
+          "artist": "NewJeans",
+          "image": "./src/assets/images/newjeansgetup.jpeg",
+          "title": "Get Up",
+          "audio": "./src/assets/audio/getup.mp3",
+          "description": "Listen More NewJeans Song!"
+        },
+        {
+          "artist": "NewJeans",
+          "image": "./src/assets/images/newjeansnewjeans.jpeg",
+          "title": "New Jeans",
+          "audio": "./src/assets/audio/newjeans.mp3",
+          "description": "Listen More NewJeans Song!"
+        }
+      ],
+
+
+      "niki": [
+        {
+          "artist": "NIKI",
+          "image": "./src/assets/images/nikinicole.jpeg",
+          "title": "Ocean & Engines",
+          "audio": "./src/assets/audio/oceannengines.mp3",
+          "description": "Listern More NIKI Song!"
+        },
+        {
+          "artist": "NIKI",
+          "image": "./src/assets/images/nikinicole.jpeg",
+          "title": "Backburner",
+          "audio": "./src/assets/audio/backburner.mp3",
+          "description": "Listern More NIKI Song!"
+        },
+        {
+          "artist": "NIKI",
+          "image": "./src/assets/images/nikinicole.jpeg",
+          "title": "Anaheim",
+          "audio": "./src/assets/audio/anaheim.mp3",
+          "description": "Listern More NIKI Song!"
+        },
+        {
+          "artist": "NIKI",
+          "image": "./src/assets/images/nikinicole.jpeg",
+          "title": "Keeping Tabs",
+          "audio": "./src/assets/audio/keepingtabs.mp3",
+          "description": "Listern More NIKI Song!"
+        }
+      ],
+
+      "taylorswift": [
+        {
+          "artist": "Taylor Swift",
+          "image": "./src/assets/images/taylor.jpeg",
+          "title": "Enchanted",
+          "audio": "./src/assets/audio/enchanted.mp3",
+          "description": "Listern More Taylor Swift Song!"
+        },
+        {
+          "artist": "Taylor Swift",
+          "image": "./src/assets/images/taylor.jpeg",
+          "title": "The Way I Loved You",
+          "audio": "./src/assets/audio/thewayilovedyou.mp3",
+          "description": "Listern More Taylor Swift Song!"
+        },
+        {
+          "artist": "Taylor Swift",
+          "image": "./src/assets/images/taylor.jpeg",
+          "title": "Back To December",
+          "audio": "./src/assets/audio/backtodecember.mp3",
+          "description": "Listern More Taylor Swift Song!"
+        }
+      ]
+    }
+  }
